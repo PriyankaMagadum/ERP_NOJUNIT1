@@ -17,11 +17,11 @@ repositories {
     mavenCentral()
 }
 run {
-    main = 'com.bti.BtiApplication'
+    main = 'com.bti.Bti'
 }
 
 springBoot {
-    mainClass = 'com.bti.BtiApplication'
+    mainClass = 'com.bti.Bti'
 }
 
 jar {
