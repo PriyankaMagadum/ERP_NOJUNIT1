@@ -25,13 +25,6 @@ import org.junit.runners.Suite;
 
 @Suite.SuiteClasses({
 
-		ControllerAccountTypeSetUpTest.class, ControllerBillOfMaterialSetUpTest.class,
-		ControllerInventoryClassSetUpCurrencyTest.class,ControllerInventoryControlSetUpTest.class,
-		ControllerItemCategorySetupTest.class,ControllerItemClassAccountTableSetUpTest.class,
-		ControllerItemClassSetupTest.class,ControllerItemLotCategorySetupTest.class,ControllerPriceGroupSetupTest.class,
-		ControllerPriceLevelSetupTest.class,ControllerSiteSetupTest.class,ControllerSiteBinsSetupTest.class,
-		ControllerUnitOfMeasureScheduleSetUpTest.class,ControllerUnitOfMeasureScheduleSetUpDetailsTest.class,
-		ControlllerStockCalenderSetupTest.class
 		
 
 })
