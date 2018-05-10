@@ -17,7 +17,7 @@ repositories {
     mavenCentral()
 }
 run {
-    main = 'com.bti.Bti'
+    main = 'com.bti.BtiApplication'
 }
 
 springBoot {
